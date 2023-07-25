@@ -53,7 +53,7 @@ Download the weights for diff. models in the paper, CNet refers to CenterNet, wh
 </tr>
 </table>
 
-Additionally, the weight file <a href="https://drive.google.com/file/d/1H9PRxYhp2UXEY6G6IejgoaE_DEJQs1nx/view?usp=drive_link">centernet_512_voc.pth</a> trained on the VOC2007 dataset in Figure 1 of our paper is available. Simply place these weight files in the directory 'model_data'.
+Additionally, the weight file <a href="https://drive.google.com/file/d/1H9PRxYhp2UXEY6G6IejgoaE_DEJQs1nx/view?usp=drive_link">centernet_resnet50_voc.pth</a> trained on the VOC2007 dataset in Figure 1 of our paper is available. Simply place these weight files in the directory 'model_data'.
 
 # 4.execute locally
 
