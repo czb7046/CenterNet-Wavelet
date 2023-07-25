@@ -27,7 +27,7 @@ Download the weights for diff. models in the paper, CNet refers to CenterNet, wh
 <tr>
 <td rowspan="2">512</td>
 <td>CNet</td>
-<td>[Centernet_512.pth][1]</td>
+<td>[Centernet_512.pth][1]:https://drive.google.com/file/d/1oHSXN8xyaEvMSumZK2l2De7odXUR1QDg/view?usp=drive_link</td>
 </tr>
 <tr>
 <td>WNet</td>
@@ -129,7 +129,7 @@ python mAP.py model_data/CenterNet_Wav_512.pth 512
 
 (5) CenterNet_Wav_640.pth:
 
-[1]:https://drive.google.com/file/d/1oHSXN8xyaEvMSumZK2l2De7odXUR1QDg/view?usp=drive_link
+
 
 python mAP.py model_data/CenterNet_Wav_640.pth 640
 
