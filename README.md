@@ -1,6 +1,6 @@
 # 1.setup
 * conda create -n Centernet python==3.8
-* pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
+* pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url <b>https://download.pytorch.org/whl/cu117</b>
 * pip install opencv-python==4.8.0.74
 * pip install PyWavelets==1.4.1
 * conda install matplotlib
