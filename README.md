@@ -131,6 +131,6 @@ Additionally, the weight file <a href="https://drive.google.com/file/d/1H9PRxYhp
 
     python mAP.py model_data/CenterNet_Wav_640.pth 640
 
-*CenterNet_Wav_768.pth:
+* CenterNet_Wav_768.pth:
 
     python mAP.py model_data/CenterNet_Wav_768.pth 768
