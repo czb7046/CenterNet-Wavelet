@@ -27,7 +27,7 @@ Download the weights for diff. models in the paper, CNet refers to CenterNet, wh
 <tr>
 <td rowspan="2">512</td>
 <td>CNet</td>
-<td>Centernet_512.pth[1]</td>
+<td>[Centernet_512.pth][1]</td>
 </tr>
 <tr>
 <td>WNet</td>
@@ -54,7 +54,7 @@ Download the weights for diff. models in the paper, CNet refers to CenterNet, wh
 </table>
 
 Additionally, the weight file centernet_512_voc.pth trained on the VOC2007 dataset in Figure 1 of our paper is available. Simply place these weight files in the directory 'model_data'.
-[1]:https://drive.google.com/file/d/1oHSXN8xyaEvMSumZK2l2De7odXUR1QDg/view?usp=drive_link
+
 # 4.execute locally
 
 4.1Train the models:
@@ -128,6 +128,8 @@ python mAP.py model_data/Centernet_768.pth 768
 python mAP.py model_data/CenterNet_Wav_512.pth 512
 
 (5) CenterNet_Wav_640.pth:
+
+[1]:https://drive.google.com/file/d/1oHSXN8xyaEvMSumZK2l2De7odXUR1QDg/view?usp=drive_link
 
 python mAP.py model_data/CenterNet_Wav_640.pth 640
 
